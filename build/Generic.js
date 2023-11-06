@@ -68,4 +68,4 @@
 //   "age",
 //   36
 // );
-// console.log(filterdPeopleBYName);
+// console.log(filterdPeopleBYName);  
